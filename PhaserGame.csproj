@@ -19,7 +19,7 @@
     <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="css\app.css" />
+    <Content Include="css\main.css" />
     <Content Include="index.html" />
     <Content Include="lib\phaser.js" />
     <Content Include="lib\phaser.min.js" />
@@ -33,7 +33,7 @@
     <None Include="lib\phaser_box2d.d.ts" />
     <None Include="lib\pixi.comments.d.ts" />
     <None Include="lib\pixi.d.ts" />
-    <TypeScriptCompile Include="ts\app.ts" />
+    <TypeScriptCompile Include="ts\main.ts" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="lib\phaser.map" />

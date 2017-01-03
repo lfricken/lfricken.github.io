@@ -37,4 +37,4 @@ var Greeter = (function () {
 //    var greeter = new Greeter(el);
 //    greeter.start();
 //}; 
-//# sourceMappingURL=app.js.map
+//# sourceMappingURL=main.js.map
