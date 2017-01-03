@@ -10,22 +10,37 @@
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <DebugType>full</DebugType>
     <DebugSymbols>true</DebugSymbols>
-    <TypeScriptToolsVersion>1.0</TypeScriptToolsVersion>
+    <TypeScriptToolsVersion>2.1</TypeScriptToolsVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="app.css" />
+    <Content Include="css\app.css" />
     <Content Include="index.html" />
+    <Content Include="lib\phaser.js" />
+    <Content Include="lib\phaser.min.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
-    <TypeScriptCompile Include="app.ts" />
+    <None Include="lib\box2d.d.ts" />
+    <TypeScriptCompile Include="lib\p2.d.ts" />
+    <None Include="lib\phaser.comments.d.ts" />
+    <None Include="lib\phaser.d.ts" />
+    <None Include="lib\phaser_box2d.d.ts" />
+    <None Include="lib\pixi.comments.d.ts" />
+    <None Include="lib\pixi.d.ts" />
+    <TypeScriptCompile Include="ts\app.ts" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="lib\phaser.map" />
+    <Content Include="lib\config.php" />
+    <Content Include="lib\readme.md" />
+    <Content Include="lib\tslint.json" />
+    <Content Include="lib\typings.json" />
     <None Include="web.Debug.config">
       <DependentUpon>web.config</DependentUpon>
     </None>
