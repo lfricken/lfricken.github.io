@@ -15,7 +15,7 @@ class SimpleGame {
 
     create() {
         var logo = this.game.add.sprite(this.game.world.centerX, this.game.world.centerY, 'logo');
-        logo.anchor.setTo(0.5, 0.5);
+        logo.anchor.setTo(0.8, 0.1);
     }
 
 }
@@ -26,28 +26,28 @@ window.onload = () => {
 
 };
 
-class Greeter {
-    element: HTMLElement;
-    span: HTMLElement;
-    timerToken: number;
+//class Greeter {
+//    element: HTMLElement;
+//    span: HTMLElement;
+//    timerToken: number;
 
-    constructor(element: HTMLElement) {
-        this.element = element;
-        this.element.innerHTML += "The time is: ";
-        this.span = document.createElement('span');
-        this.element.appendChild(this.span);
-        this.span.innerText = new Date().toUTCString();
-    }
+//    constructor(element: HTMLElement) {
+//        this.element = element;
+//        this.element.innerHTML += "The time is: ";
+//        this.span = document.createElement('span');
+//        this.element.appendChild(this.span);
+//        this.span.innerText = new Date().toUTCString();
+//    }
 
-    start() {
-        this.timerToken = setInterval(() => this.span.innerHTML = new Date().toUTCString(), 500);
-    }
+//    start() {
+//        this.timerToken = setInterval(() => this.span.innerHTML = new Date().toUTCString(), 500);
+//    }
 
-    stop() {
-        clearTimeout(this.timerToken);
-    }
+//    stop() {
+//        clearTimeout(this.timerToken);
+//    }
 
-}
+//}
 
 //window.onload = () => {
 //    var el = document.getElementById('mainDiv');
