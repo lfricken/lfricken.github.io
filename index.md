@@ -1,5 +1,6 @@
 Meditations On Moloch: Abridged
 =============
+Original [here](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 Allen Ginsberg’s famous poem on Moloch:
 
@@ -62,10 +63,24 @@ This example is kind of contrived. So let’s run through some real world exampl
 
 1. [The Prisoner’s Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma), as played by two hardcore libertarians who keep ending up on defect-defect. There’s a much better outcome available if they could figure out the coordination, but coordination is hard. From a god’s-eye-view, we can agree that cooperate-cooperate is a better outcome than defect-defect, but neither prisoner within the system can make it happen.
 
-2. [Dollar auctions](https://en.wikipedia.org/wiki/Dollar_auction). Using some weird auction rules, you can take advantage of poor coordination to make someone pay $10 for $1. From a god’s-eye-view, clearly people should not pay $10 for $1. From within the system, each individual step is rational.
+2. [Dollar Auctions](https://en.wikipedia.org/wiki/Dollar_auction). Using some weird auction rules, you can take advantage of poor coordination to make someone pay $10 for $1. From a god’s-eye-view, clearly people should not pay $10 for $1. From within the system, each individual's decisions were consistently rational.
 
-
-
+3. [Tragedy of the Commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons) 
+>Let’s consider fish farming in a lake. Imagine a lake with a thousand identical fish farms owned by a thousand competing companies. Each fish farm earns a profit of $1000/month. For a while, all is well.
+>
+>Each fish farm produces waste, which fouls the water in the lake. Let’s say each fish farm produces enough pollution to lower productivity in the lake by $1/month.
+>
+>A thousand fish farms produce enough waste to lower productivity by $1000/month, meaning none of the fish farms are making any money. Capitalism to the rescue: someone invents a filtering system that removes waste products. It costs $300/month to operate. All fish farms voluntarily install it, the pollution ends, and the fish farms are now making a profit of $700/month.
+>
+>But one farmer (Steve!!!) gets tired of spending the money to operate his filter. Now one fish farm worth of waste is polluting the lake, lowering productivity by $1. Steve earns $999 profit, and everyone else earns $699 profit.
+>
+>Everyone else sees Steve is much more profitable than they are, because he’s not spending the maintenance costs on his filter. They disconnect their filters too.
+>
+>Once four hundred people disconnect their filters, Steve is earning $600/month – less than he would be if he and everyone else had kept their filters on! And the poor virtuous filter users are only making $300. Steve goes around to everyone, saying “Wait! We all need to make a voluntary pact to use filters! Otherwise, everyone’s productivity goes down.”
+>
+>Everyone agrees with him, and they all sign the Filter Pact, except one person (Mike!!!) who is sort of a jerk. Now everyone is back using filters again except Mike. Mike earns $999/month, and everyone else earns $699/month. Slowly, people start thinking they too should be getting big bucks like Mike, and disconnect their filter for $300 extra profit.
+>
+>A self-interested person never has any incentive to use a filter. A self-interested person has some incentive to sign a pact to make everyone use a filter, but in many cases has a stronger incentive to wait for everyone else to sign such a pact but opt out himself. This can lead to an undesirable equilibrium in which no one will sign such a pact.
 
 
 
