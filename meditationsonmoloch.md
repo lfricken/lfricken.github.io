@@ -1,6 +1,6 @@
 Meditations On Moloch: Abridged
 =============
-Original [here](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
+[Original here](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/)
 
 Allen Ginsberg’s famous poem on Moloch:
 
