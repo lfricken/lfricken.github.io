@@ -1,5 +1,5 @@
 Home
 =============
 
-[Meditations On Moloch: Abridged](meditationsonmoloch.md)
+[Meditations On Moloch: Abridged](pages/meditationsonmoloch.md)
 
