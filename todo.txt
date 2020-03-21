@@ -3,6 +3,6 @@
 
 
 
-fix @media ... max-width: 480px breaking mobile site
+assets/css/style.scss doesnt work
 
 
