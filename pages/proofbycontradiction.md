@@ -1,5 +1,8 @@
-Proof by Contradiction
+Cognitive Dissonance
 =============
+
+> cognitive dissonance occurs when a person holds two or more contradictory beliefs, ideas, or values
+> -- <cite>[wikipedia article](https://en.wikipedia.org/wiki/Cognitive_dissonance)</cite>
 
 ### The Milky Way Galaxy
 
@@ -29,13 +32,13 @@ I'm sure you've seen an image of the Milky Way before, with its magnificient spi
 <a id="ex4">There is a contradiction almost in plain sight here!</a><img title="This was taken off of wikipedia." id="ex4a" src="proofbycontradiction2.gif"/>
 Those spiral arms should be getting wound around each other like a spool.
 
-I find problems like this fascinating, not only because the right answer in this case turns out to be really cool, but because it shows how easily you can be suffering from cognitive dissonance without realizing it. The number of inferential steps required to spot the problem here was really low, and yet I did not spot it until I was in my twenties.
+I find problems like this fascinating, not only because the right answer in this case turns out to be really cool, but because it shows how easily you can be suffering from cognitive dissonance without realizing it. The number of inferential steps required to spot the problem here was really low but I did not spot it until I was in my twenties, and some people, much smarter than me, never notice it.
 
-Human civilization and the beliefs within it are really complicated, <sup>[citation needed]</sup> and when we look at history, we see entire paradigms of thought sustained for centuries that have contradictions at every turn. We ask how they could have been that foolish. In reality, those time periods had the same kinds of people this time period does. People who must stamp out every contradiction in their minds like an addiction, and people who would rather think about other things. The former are the kinds of people that started the scientific revolution, and they didn't get much love for it.
+Sometimes contradictions lead to minor corrections in a scientific theory. Othertimes, they dismantle them completely. Scientists invite questions because they want to make their theories as strong as possible. Their theory will go through more and more rigorous tests if it gains traction, so it's better to catch mistakes early. More than anything though, most of them are [naturally curious](https://xkcd.com/356/).
 
-Sometimes contradictions lead to minor corrections in a scientific theory. Othertimes, they dismantle them completely. Scientists invite questions because they want to make their theories as strong as possible. Their theory will go through more and more rigorous tests if it gains traction; it's better to catch mistakes early. More than anything though, most of them are [naturally curious](https://xkcd.com/356/).
+Human civilization and the beliefs within it are really complicated, <sup>[citation needed]</sup> and when we look at history, we see entire paradigms of thought sustained for centuries that have contradictions at every turn. We ask how they could have been that foolish. In reality, those time periods had the same kinds of people this time period does. People who must stamp out every contradiction in their minds like an addiction, and people who would rather think about other things. The former are the kinds of people that started the scientific revolution.
 
-Contradictions exist in all types of theories, not just scientific ones. Ideologies are a kind of theory, and most people hold one or another. Unfortunately though, people don't like having contradictions pointed out for that kind of thing. A contradiction could require a minor correction, or it turn out to be a death knell for what they believe in. As long as this is the case it will never be [fashonable](http://www.paulgraham.com/say.html) to question popular ideologies, but it's at least as important considering they run the world. When can we get an ideological revolution?
+Contradictions exist in all types of theories though, not just scientific ones. Ideologies are a kind of theory, and most people hold one or another. Unfortunately though, people don't like having contradictions pointed out for that kind of thing. A contradiction could suggest a minor correction, or it turn out to be a death knell for what they believe in. As long as this is the case it will never be [fashonable](http://www.paulgraham.com/say.html) to question popular ideologies, but it's at least as important considering they run the world. When can we get an ideological revolution?
 
 
 
