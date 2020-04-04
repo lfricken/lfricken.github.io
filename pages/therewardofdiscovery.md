@@ -1,6 +1,6 @@
 The Reward of Discovery
 =============
-
+Inspired by [The Risk of Discovery](http://www.paulgraham.com/disc.html) by Paul Graham
 
 After reviewing his survey data [Scott Alexander finds that over 70% of his readers are first borns](https://slatestarcodex.com/2018/01/08/fight-me-psychologists-birth-order-effects-exist-and-are-very-strong/). He then goes on to say that this might have to do with "intellectual curiosity" and "openness to experience", but wonders why this might be the case for eldest siblings, and also implies it's hard to assess/define.
 
