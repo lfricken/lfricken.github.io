@@ -1,10 +1,7 @@
 Home
 =============
 
+[Alignment](pages/alignment.md)
 
-[Proof by Contradiction](pages/proofbycontradiction.md)
-
-[The Reward of Discovery](pages/therewardofdiscovery.md)
-
-[Meditations On Moloch: Notes](pages/meditationsonmoloch.md)
+[Contradicting Yourself](pages/proofbycontradiction.md)
 
