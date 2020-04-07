@@ -27,13 +27,16 @@ Physical Pain
 Phobias
 Hunger
 
+these proxies control us, even in some sense, against our own will
+AI wont have this problem.
+
 
 
 That is definitely more algorithmically elegant, but doesn't work very well. Theoretically all sorts of pleasures and pains that we experience are redundant. Breaking a finger should hurt for the same reason that starving should hurt. They are both reducing your reproductive odds.
 
    When we eat tasty food, we are instantly given some sort of feedback about whether that was a good decision or not. When we break a finger, we know there is a problem.
 
-[](ai hard to play game)
+[](ai can't play dig dug)
 
 
 
