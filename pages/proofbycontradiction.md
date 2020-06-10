@@ -36,9 +36,7 @@ I find problems like this fascinating, not only because the right answer in this
 
 Sometimes contradictions lead to minor corrections in a scientific theory. Othertimes, they dismantle them completely. Scientists invite questions because they want to make their theories as strong as possible. Their theory will go through more and more rigorous tests if it gains traction, so it's better to catch mistakes early. More than anything though, most of them are [naturally curious](https://xkcd.com/356/).
 
-Human civilization and the beliefs within it are really complicated, <sup>[citation needed]</sup> and when we look at history, we see entire paradigms of thought sustained for centuries that have contradictions at every turn. We ask how they could have been that foolish. In reality, those time periods had the same kinds of people this time period does; a small number of whom must stamp out every contradiction in their minds like an addiction, and the rest of humanity.
-
-need point about how they started the scientific revolution
+Human civilization and the beliefs within it are really complicated, <sup>[citation needed]</sup> and when we look at history, we see entire paradigms of thought sustained for centuries that have contradictions at every turn. We ask how they could have been that foolish. In reality, those time periods had the same kinds of people this time period does; a small number of whom must stamp out every contradiction in their minds like an addiction, and people who don't.
 
 Contradictions exist in all types of theories though, not just scientific ones. Ideologies are a kind of theory, and most people hold one or another. Unfortunately though, people don't like having contradictions pointed out for that kind of thing. A contradiction could suggest a minor correction, or it could turn out to be a death knell for what they believe in. As long as this is the case it will never be [fashonable](http://www.paulgraham.com/say.html) to question popular ideologies, but it's at least as important considering they run the world. When can we get an ideological revolution?
 

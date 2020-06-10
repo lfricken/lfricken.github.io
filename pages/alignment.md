@@ -34,8 +34,6 @@ There is a strange fraction of humanity that seems to invent their own move set 
 ### Can you be too open?
 [There is a risk here too](http://www.paulgraham.com/disc.html). You end up wasting your time on activities that don't work out. And if youre
 
-I don't find most people very interesting.
-
 ### Superintelligence
 A few humans with the right level of discovery can take over entire industries.
 
