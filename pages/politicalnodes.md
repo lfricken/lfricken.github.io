@@ -1,6 +1,8 @@
 All In All, Another Brick In The Motte
 =============
-[Original](https://slatestarcodex.com/2014/11/04/ethnic-tension-and-meaningless-arguments/)
+[Original](https://slatestarcodex.com/2014/11/04/ethnic-tension-and-meaningless-arguments/) by Scott Alexander
+
+[Prereading](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)
 
 One of the better things I’ve done with this blog was help popularize Nicholas Shackel’s _Motte and Bailey Doctrine_. But I’ve recently been reminded I didn’t do a very good job of it. So here is a clean new post on the concept.
 
@@ -20,7 +22,7 @@ Some classic examples:
 
 3. People pushing just about any policy position (bailey) will invoke the ideological foundation (motte) when attacked. If someone is arguing for affirmative action for some group to help achieve equality, then when they hear arguments against it, they can just say "but how can you be against equality for this group!?" Now you'll have to back up and clarify that you definitely didn't mean that.
 
-4. Some people believe in a technologic singularity, with a super intelligent AI inventing new technologies every few minutes (bailey). If you argue this is unlikely they will counter that “technological singularity” just means “a time when technology is so different that it is impossible to imagine" and who would deny that technology will probably get really weird (motte)? But then every other time they use “singularity”, they use it to refer to a very specific scenario of intelligence explosion inventing all possible technologies in a few weeks, which is far less certain and needs a lot more evidence before you can predict it (bailey).
+4. Some people believe in a technological singularity, with a super intelligent AI inventing new technologies every few minutes (bailey). If you argue this is unlikely they will counter that “technological singularity” just means “a time when technology is so different that it is impossible to imagine" and who would deny that technology will probably get really weird (motte)? But then every other time they use “singularity”, they use it to refer to a very specific scenario of intelligence explosion inventing all possible technologies in a few weeks, which is far less certain and needs a lot more evidence before you can predict it (bailey).
 
 The motte and bailey doctrine sounds kind of stupid and hard-to-fall-for when you put it like that, but all fallacies sound that way _when you’re thinking about them_. More important, it draws its strength from people’s usual failure to debate specific propositions rather than vague clouds of ideas. If I’m debating “does quackery cure cancer?”, it might be easy to view that as a general case of the problem of “is quackery okay?” or “should quackery be illegal?”, and from there it’s easy to bring up the motte objection.
 
@@ -217,9 +219,9 @@ This means that if you can come up with sufficiently clever definitions and conv
 
 If we kinda tweak the definition of “anti-Semitism” to be “anything that inconveniences Jews”, we can pull a trick where we leverage people’s dislike of Hitler to make them support the Israeli occupation of Palestine – but in order to do that, we need to get everyone on board with our slightly non-standard definition. 
 
-Another common example, the social justice movement insists on their own novel definitions of words like “racism” that don’t match common usage, any dictionary, or etymological history – but which direct bad karma toward opponents. Successfully being able to label someone racist is immensely damaging. It draws a line between them and the KKK. If you can redefine such a damaging term to include more than its old definition, you can use it more often and easily. Overreliance on this mechanism explains why many internal social justice debates end up being about whether a particular mirror can be deployed to transfer bad karma in a specific case (“are trans people privileged?!”) rather than any feature of the real world.
+Another common example: the social justice movement insists on their own novel definitions of words like “racism” that don’t match common usage, any dictionary, or etymological history – but which direct bad karma toward opponents. Successfully being able to label someone racist is immensely damaging. It draws a line between them and Nazis. If you can redefine such a damaging term to include more than its old definition, you can use it more often and easily. Overreliance on this mechanism explains why many internal social justice debates end up being about whether a particular mirror can be deployed to transfer bad karma in a specific case (“are trans people privileged?”) rather than any feature of the real world.
 
-The social justice movement is not alone. Compare: “Is such an such an organization a cult?”, “Is such and such a policy socialist?”, “Is abortion or capital punishment or war murder?” All entirely about whether we’re allowed to reflect bad karma from known sources of evil to other topics under discussion.
+The social justice movement is not alone. Compare: “Is such an such an organization a cult?”, “Is such and such a policy socialist?”, “Is abortion, or capital punishment, or war, murder?” These questions are entirely about whether we should reflect bad karma from known sources of evil to other topics under discussion.
 
 Have you worked out what we’re looking at? It's The Worst Argument In The World, only now, we can explain why it manages to work despite not really making sense.
 
