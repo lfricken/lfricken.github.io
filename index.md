@@ -7,3 +7,5 @@ Home
 
 [Contradicting Yourself](pages/proofbycontradiction.md)
 
+[The Problem With Politics](pages/politicalnodes.md)
+
