@@ -50,7 +50,7 @@ If you are very lucky, your philosophy textbook will also admit the existence of
 
 * Questions of policy, like “We should raise the minimum wage”. These are combinations of competing factual claims and competing values. For example, the minimum wage might hinge on factual claims like “Raising the minimum wage would increase unemployment” or “It is very difficult to live on the minimum wage nowadays, and many poor families cannot afford food.” But it might also hinge on value claims like “Corporations owe it to their workers to pay a living wage,” or “It is more important that the poorest be protected than that the economy be strong.” If you can resolve all of these factual and value claims, you should be able to agree on questions of policy.
 
-None of these seem to allow the sort of vagueness mentioned in the first part.
+None of these seem to allow the sort of vagueness needed for a motte and bailey to work.
 
 ### II
 
