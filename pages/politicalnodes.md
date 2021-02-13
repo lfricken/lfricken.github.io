@@ -10,7 +10,7 @@ Then post-modernists go on to say that if someone in a different culture thinks 
 
 The writers of the paper compare this argument to a form of medieval castle, where there would be a crop field called a bailey, and a big stone tower in the middle called the motte. If you were a medieval lord, you would work the crop field most of the time. If an enemy approached, you would retreat to the motte and rain down arrows on the enemy until they gave up and went away. Then you would go back to the bailey, which is the place you wanted to be all along.
 
-So the motte-and-bailey doctrine is when you make a bold, controversial statement. Then when somebody challenges you, you retreat to an obvious, uncontroversial statement, and inquisit how they deny _that_ statement. So you’re clearly right and they’re silly for challenging you. Then when the argument is over you go back to making the bold, controversial statement. You retreat a bit to an easy to defend position, then regain the ground once the opponent has retreated. It's a particularly successful form of goalpost shifting.
+So the motte-and-bailey doctrine is when you make a bold, controversial statement. If somebody challenges you, you retreat to an obvious, uncontroversial statement, so you’re clearly right and they’re silly for challenging you. When the argument is over you go back to making the bold, controversial statement. It's special, and successful, form of goalpost shifting.
 
 Some classic examples:
 
