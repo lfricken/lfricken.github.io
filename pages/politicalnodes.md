@@ -4,25 +4,25 @@ All In All, Another Brick In The Motte
 
 [Prereading](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world)
 
-There is a really interesting fallacy known as the _Motte and Bailey_. The original paper that coins the term is intended as a critique of post-modernism. Post-modernists sometimes say things like “reality is socially constructed”, and there’s an uncontroversially correct meaning there. We don’t experience the world directly, but through the categories and prejudices implicit to our society; for example, I might view a certain shade of bluish-green as blue, and someone raised in a different culture might view it as green. Sounds fine.
+Post-modernists sometimes say things like “reality is socially constructed”, and there’s an uncontroversially correct meaning there. We don’t experience the world directly, but through the categories and prejudices implicit to our society; for example, I might view a certain shade of bluish-green as blue, and someone raised in a different culture might view it as green. Sounds fine.
 
-Then post-modernists go on to say that if someone in a different culture thinks that the sun is light glinting off the horns of the Sky Ox, that’s just as real as our own culture’s theory that the sun is a mass of incandescent gas. If you challenge them, they’ll say that you’re denying reality is socially constructed, which means you’re clearly very naive and think you have perfect objectivity and the senses perceive reality directly.
+Then post-modernists go on to say that if someone in a different culture thinks that the sun is light glinting off the horns of the Sky Ox, that’s just as real as our own culture’s theory that the sun is a mass of incandescent gas. If you challenge them, they’ll say that you’re denying reality is socially constructed, which means you’re clearly naive and think you have perfect objectivity and the senses perceive reality directly.
 
-The writers of the paper compare this argument to a form of medieval castle, where there would be a crop field called a bailey, and a big stone tower in the middle called the motte. If you were a medieval lord, you would work the crop field most of the time. If an enemy approached, you would retreat to the motte and rain down arrows on the enemy until they gave up and went away. Then you would go back to the bailey, which is the place you wanted to be all along.
+This kind of argument resembles a medieval castle, where there would be a crop field called a bailey, and a big stone tower in the middle called the motte. If you were a medieval lord, you would work the crop field most of the time. If an enemy approached, you would retreat to the motte and rain down arrows on the enemy until they gave up and went away. Then you would go back to the bailey, which is the place you wanted to be all along.
 
-So the motte-and-bailey doctrine is when you make a bold, controversial statement. If somebody challenges you, you retreat to an obvious, uncontroversial statement, so you’re clearly right and they’re silly for challenging you. When the argument is over you go back to making the bold, controversial statement. It's special, and successful, form of goalpost shifting.
+So the motte-and-bailey fallacy is when you make a bold, controversial statement. If somebody challenges you, you retreat to an obvious, uncontroversial statement, so you’re clearly right and they’re silly for challenging you. When the argument is over you go back to making the bold, controversial statement. It's a common but successful form of goalpost shifting.
 
 Some classic examples:
 
 1. Proponents of pseudoscience sometimes argue that their particular form of quackery will cure cancer or take away your pains or heal your crippling injuries (bailey). When confronted with evidence that it doesn’t work, they might argue that people need hope, and even a placebo solution will often relieve stress and help people feel cared for (motte). In fact, some have argued that quackery may be better than real medicine for certain untreatable diseases, because neither real nor fake medicine will help, but fake medicine tends to be more calming and has fewer side effects. But then once you leave the quacks in peace, they will go back to telling less knowledgeable patients that their treatments will cure cancer.
 
-2. Critics of the rationalist (this) community note that it pushes controversial complicated things like Bayesian statistics and utilitarianism (bailey) under the name “rationality”, but when asked to justify itself defines rationality as “whatever helps you achieve your goals”, which is so vague as to be universally unobjectionable (motte). Then once you have admitted that more rationality is always a good thing, they suggest you’ve admitted everyone needs to learn more Bayesian statistics.
+2. Critics of the rationalist community note that it pushes controversial complicated things like Bayesian statistics and utilitarianism (bailey) under the name “rationality”, but when asked to justify itself defines rationality as “whatever helps you achieve your goals”, which is so vague as to be universally unobjectionable (motte). Then once you have admitted that more rationality is always a good thing, they suggest you’ve admitted everyone needs to learn more Bayesian statistics.
 
-3. Some people believe in a technological singularity, with a super intelligent AI inventing new technologies every few minutes (bailey). If you argue this is unlikely they will counter that “technological singularity” just means “a time when technology is so different that it is impossible to imagine" and who would deny that technology will probably get really weird (motte)? But then every other time they use “singularity”, they use it to refer to a very specific scenario of intelligence explosion inventing all possible technologies quickly, which is far less certain and needs a lot more evidence.
+3. Some people believe in a technological singularity, with a super intelligent AI inventing new technologies every few minutes (bailey). If you argue this is unlikely they will counter that “technological singularity” just means “a time when technology is so different that it is impossible to imagine" and who would deny that technology will probably get really weird (motte)? But then every other time they use “singularity”, they use it to refer to a very specific scenario of intelligence explosion, which needs a lot more evidence.
 
-4. Generally, people pushing just about any policy position (bailey) will invoke the motivation (motte) when they feel attacked. If someone is arguing for affirmative action for some group, then if they hear arguments against it, they can just say "but how can you be against equality for this group!?". Now you have to back up and clarify that you definitely didn't mean that.
+4. Generally speaking, people pushing just about any policy position (bailey) will invoke the motivation (motte) if they feel attacked. If someone is arguing for affirmative action for some group and they hear arguments against it, they can just say "but how can you be against equality for this group!?". Now the other person has clarify that's definitely not what they meant.
 
-The motte and bailey doctrine sounds kind of stupid and hard-to-fall-for when you put it like that, but all fallacies sound that way _when you’re thinking about them_. More important, it draws its strength from people’s usual failure to debate specific propositions rather than vague clouds of ideas. If I’m debating “does quackery cure cancer?”, it might be easy to view that as a general case of the problem of “is quackery okay?” or “should quackery be illegal?”, and from there it’s easy to bring up the motte objection.
+The motte and bailey sounds kind of stupid and hard-to-fall-for when you put it like that, but all fallacies sound that way _when you’re thinking about them_. It draws its strength from people’s usual failure to debate specific propositions rather than vague clouds of ideas. If I’m debating “does quackery cure cancer?”, it might be easy to view that as a general case of the problem of “is quackery okay?” or “should quackery be illegal?”, and from there it’s easy to bring up the motte objection.
 
 Recently, a friend (I think it was Robby Bensinger) pointed out something I’d totally missed. The motte-and-bailey doctrine is a perfect mirror image of my other favorite fallacy, the weak man fallacy.
 
@@ -30,35 +30,32 @@ Weak-manning is a lot like straw-manning, except that instead of debating a fake
 
 So weak-manning is replacing a strong position with a weak position to better attack it; motte-and-bailey is replacing a weak position with a strong position to better defend it. This means people who know both terms are at constant risk of arguments of the form “You’re weak-manning me!” “No, you’re motte-and-baileying me!“.
 
-Suppose we’re debating feminism. I defend it by saying women need to be treated equally. You attack it by saying that feminists say that all men are terrible. I can accuse you of attacking the weakest statement any feminist has ever pushed, and you can accuse me of defending an uncontroversially statement.
+Suppose we’re debating feminism. I defend it by saying "women need to be treated equally". You attack it by saying that feminists think "all men are terrible". I can accuse you of attacking the weakest statement any feminist has ever pushed, and you can accuse me of defending an uncontroversially statement.
 
-But why does this kind of goalpost shifting work? What is the real "feminism" we should be debating? Why would you even ask that question? It's way more fun to just say “Here’s a vague and poorly-defined concept, _quick_, should we think positively or negatively about it?”
-
-If you have an actual thing you’re trying to debate, then it should be obvious when somebody’s changing the topic. If working out who’s using motte-and-bailey (or weak man) is remotely difficult, it means your discussion went wrong several steps earlier and you probably have no idea what you’re even arguing about.
-
+But why does this kind of goalpost shifting work? What is the real "feminism" we should be debating? Who knows!? It's way easier to just say “Here’s a vague concept, feminism, ___quick___, should we think positively or negatively about it?”
 
 ### Ethnic Tension And Meaningless Arguments
 When everything works the way it’s supposed to in philosophy textbooks, arguments are supposed to go one of a couple of ways:
 
 * Questions of empirical fact, like “Did aliens build the pyramids?”. You debate these by presenting factual evidence, like “One of the bricks at Giza says ‘Made In Tau Ceti V’ on the bottom.” Then people try to refute these facts or present facts of their own.
 
-* Questions of morality, like “Should you refrain from downloading music you have not paid for?” You can only debate questions aroud morality well if you’ve already agreed upon a moral framework, like consequentialism. But you can sort of debate them by comparing to examples of agreed-upon moral questions and trying to maintain consistency. For example, “You wouldn’t download a car!”
+* Questions of morality, like “Should you refrain from downloading music you have not paid for?” You can only debate questions aroud morality well if you’ve already agreed upon a moral framework, like consequentialism. But you can sort of debate them by comparing to examples of agreed-upon moral questions and trying to maintain consistency. For example, “You wouldn’t download a car.”
 
 If you are very lucky, your philosophy textbook will also admit the existence of:
 
 * Questions of policy, like “We should raise the minimum wage”. These are combinations of competing factual claims and competing values. Minimum wage discussions might hinge on factual claims like “Raising the minimum wage would increase unemployment” or “It is very difficult to live on the minimum wage nowadays, and many poor families cannot afford food.” But it might also hinge on value claims like “Corporations owe it to their workers to pay a living wage,” or “It is more important that the poorest be protected than that the economy be strong.” If you can resolve all of these factual and value claims, you should be able to agree on questions of policy.
 
-None of these seem to allow the sort of vagueness needed for a motte and bailey to work.
+None of these questions seem to allow the sort of vagueness needed for a motte and bailey to work.
 
 ### II
 
-A question: are you pro-Israel or pro-Palestine? Take a second, actually think about it.
+Question: Are you pro-Israel or pro-Palestine? Pause and actually think about it.
 
-Some people probably answered pro-Israel, others pro-Palestine, and others probably said they were neutral because it’s a complicated issue with good points on both sides.
+So some people probably answered pro-Israel, others pro-Palestine, and others probably said they were neutral because it’s a complicated issue with good points on both sides.
 
-Probably very few people answered: "What does that even mean?"
+Probably very few people answered: "What does that question even mean?"
 
-This question doesn’t fall into any of the three Philosophy 101 forms of argument. It’s not a question of fact. It’s not a question of particular moral truths. It’s not even a question of policy. There are closely related policies, like whether Palestine should be granted independence. But if I support a very specific two-state solution where the border is drawn upon the somethingth parallel, does that make me pro-Israel or pro-Palestine? At exactly which parallel of border does the solution under consideration switch from pro-Israeli to pro-Palestinian? Do you think the crowd of people shouting and waving signs saying “SOLIDARITY WITH PALESTINE” have an answer to that question?
+It doesn’t fall into any of the three forms of argument above. It’s not a question of fact, it’s not a question of specific moral truths, and it’s not a question of policy. There are closely related policies, like whether Palestine should be granted independence. But if I support a very specific two-state solution where the border is drawn upon the _something-th_ parallel, does that make me pro-Israel or pro-Palestine? At exactly which parallel of border does the solution under consideration switch from pro-Israeli to pro-Palestinian? Do you think the crowd of people shouting and waving signs saying “SOLIDARITY WITH PALESTINE” have an answer to that question?
 
 And this question covers even more than just the borders of an independent Palestinian state. Was Israel justified by responding to Hamas’ rocket fire by bombing Gaza, even with the near-certainty of collateral damage? Was Israel justified in building a wall across the Palestinian territories to protect itself from potential terrorists, even though it severely curtails Palestinian freedom of movement? Do Palestinians have a “right of return” to territories taken in the 1948 war? Who should control the Temple Mount?
 
@@ -94,41 +91,32 @@ So this is a fourth type of argument, the kind that doesn’t make it into Philo
 
 ### IV
 
-Now motte-and-bailey stands revealed:
+Now motte-and-bailey stands revealed. Again, if I can load the concept of “feminism” with good karma by making it so obvious nobody can disagree with it, then I have a massive “home field advantage” when I’m trying to convince anyone of any particular policy that can go under the name “feminism”, even if it's unrelated to the arguments that gave feminism good karma in the first place.
 
-> Suppose we’re debating feminism, and I defend it by saying it really is important that women be treated equally, and you attack feminism by saying that "_all men are terrible_" obviously isn't true. Then I can accuse you of making life easy for yourself by attacking the weakest statement any feminist has ever pushed. And you can accuse me if making life too easy for myself by defending an uncontroversially statement.
-
-Once again, if I can load the concept of “feminism” with good karma by making it so obvious nobody can disagree with it, then I have a massive “home field advantage” when I’m trying to convince anyone of any particular policy that can go under the name “feminism”, even if it's unrelated to the arguments that gave feminism good karma in the first place.
-
-On the other hand, I could just post quotes from the ten most offensive feminists on Tumblr, again and again, until the entire movement seems ridiculous and evil. Then, you’ll have trouble convincing anyone of anything feminist. “That seems reasonable... but wait, isn’t that a feminist position? Aren’t those the people I hate?”
-
-(compare: most Americans oppose Obamacare, but most Americans support each individual component of Obamacare when it is explained without using the word “Obamacare”)
+On the other hand, I could just post quotes from the ten most offensive feminists on Tumblr, again and again, until the entire movement seems ridiculous and evil. Then you’ll have trouble convincing anyone of anything feminist. Compare: most Americans oppose Obamacare, but most Americans support each individual component of Obamacare when it is explained without using the word “Obamacare”.
 
 ### V
 
-Little flow diagram things make everything better. Let’s make a little flow diagram thing.
+Diagrams make everything better. We have our node “Israel”, which has either good or bad karma. Then there’s another node close by marked “Palestine”. We would expect these two nodes to be pretty anti-correlated. When Israel has good karma, Palestine has bad karma, and vice versa.
 
-We have our node “Israel”, which has either good or bad karma. Then there’s another node close by marked “Palestine”. We would expect these two nodes to be pretty anti-correlated. When Israel has good karma, Palestine has bad karma, and vice versa.
-
-![alt text](politicalnodes0.png "")
+![alt text](politicalnodes0.png " ")
 
 Now suppose you listen to Noam Chomsky talk about how strongly he supports the Palestinian cause and how much he dislikes Israel. One of two things can happen:
 
-“Wow, a great man such as Noam Chomsky supports the Palestinians! They must be very deserving of support indeed!”
-or
-“That idiot Chomsky supports Palestine? Well, screw him. And screw them!”
+1. “Wow, a great man such as Noam Chomsky supports the Palestinians! They must be very deserving of support indeed!”
+2. “That idiot Chomsky supports Palestine? Well, screw him. And screw them!”
 
 So now there is a third node, Noam Chomsky, that connects to both Israel and Palestine, and we have discovered it is positively correlated with Palestine and negatively correlated with Israel. It probably has a pretty low weight, because there are a lot of reasons to care about Israel and Palestine other than Chomsky, and a lot of reasons to care about Chomsky other than Israel and Palestine, but the connection is there.
 
-![alt text](politicalnodes1.png "")
+![alt text](politicalnodes1.png " ")
 
-Whatever this structure is, it’s a structure where eventually the three nodes reach some kind of equilibrium. If we start with someone liking Israel and Chomsky, but not Palestine, then either that’s going to shift a little bit towards liking Palestine, or shift a little bit towards disliking Chomsky.
+Over time as you learn more, this structure eventually reaches some kind of equilibrium. If we start with someone liking Israel and Chomsky, but not Palestine, then either that’s going to shift a little bit towards liking Palestine, or shift a little bit towards disliking Chomsky.
 
 Now we add more nodes. Cuba seems to really support Palestine, so they get a positive connection with a little bit of weight there. And I think Noam Chomsky supports Cuba, so we’ll add a connection there as well. Cuba is socialist, and that’s one of the most salient facts about it, so there’s a heavily weighted positive connection between Cuba and socialism. Palestine kind of makes noises about socialism but I don’t think they have any particular economic policy, so let’s say very weak direct connection. And Che is heavily associated with Cuba, so you get a pretty big Che – Cuba connection, plus a strong direct Che – socialism one. And those pro-Palestinian students who threw rotten fruit at an Israeli speaker also get a little path connecting them to “Palestine” – hey, why not – so that if you support Palestine you might be willing to excuse what they did and if you oppose them you might be a little less likely to support Palestine.
 
 Back up. This model produces crazy results, like that people who like Che are more likely to oppose Israel bombing Gaza. That’s such a weird, implausible connection that it casts doubt upon the entire…
 
-Oh wait, that really is how it works.
+Oh. That really is how it works.
 
 I think this kind of model, in its efforts to sort itself out into an equilibrium state, might settle on some kind of General Factor Of Politics, which would probably correspond pretty well to the left-right axis.
 
@@ -141,7 +129,7 @@ If I were in charge of convincing the Red Tribe to line up behind fighting globa
 
 > In the 1950s, brave American scientists shunned by the climate establishment of the day discovered that the Earth was warming as a result of greenhouse gas emissions, leading to potentially devastating natural disasters that could destroy American agriculture and flood American cities. As a result, the country mobilized against the threat. Strong government action by the Bush administration outlawed the worst of these gases, and brilliant entrepreneurs were able to discover and manufacture new cleaner energy sources. As a result of these brave decisions, our emissions stabilized and are currently declining.
 
-> Unfortunately, even as we do our part, the authoritarian governments of Russia and China continue to industralize and militarize rapidly as part of their bid to challenge American supremacy. As a result, Communist China is now by far the world’s largest greenhouse gas producer, with the Russians close behind. Many analysts believe Putin secretly welcomes global warming as a way to gain access to frozen Siberian resources and weaken the more temperate United States at the same time. These countries blow off huge disgusting globs of toxic gas, which effortlessly cross American borders and disrupt the climate of the United States. Although we have asked them to stop several times, they refuse, perhaps egged on by major oil producers like Iran and Venezuela who have the most to gain by keeping the world dependent on the fossil fuels they produce and sell to prop up their dictatorships.
+> As we do our part, the authoritarian governments of Russia and China continue to industralize and militarize rapidly as part of their bid to challenge American supremacy. As a result, Communist China is now by far the world’s largest greenhouse gas producer, with the Russians close behind. Many analysts believe Putin secretly welcomes global warming as a way to gain access to frozen Siberian resources and weaken the more temperate United States at the same time. These countries blow off huge disgusting globs of toxic gas, which effortlessly cross American borders and disrupt the climate of the United States. Although we have asked them to stop several times, they refuse, perhaps egged on by major oil producers like Iran and Venezuela who have the most to gain by keeping the world dependent on the fossil fuels they produce and sell to prop up their dictatorships.
 
 > We need to take immediate action. While we cannot rule out the threat of military force, we should start by using our diplomatic muscle to push for firm action at top-level summits like the Kyoto Protocol. Second, we should fight back against the liberals who are trying to hold up this important work, from big government bureaucrats trying to regulate clean energy to celebrities accusing people who believe in global warming of being ‘racist’. Third, we need to continue working with American industries to set an example for the world by decreasing our own emissions in order to protect ourselves and our allies. Finally, we need to punish people and institutions who, instead of cleaning up their own carbon, try to parasitize off the rest of us and expect the federal government to do it for them.
 
@@ -211,13 +199,11 @@ Anti-Semitism is generally considered evil because a lot of anti-Semitic things 
 
 This means that if you can come up with sufficiently clever definitions and convince people to accept them, you can win any argument by default just by having a complex system of mirrors in place to reflect bad karma from genuinely evil things to the things you want to tar as evil.
 
-If we kinda tweak the definition of “anti-Semitism” to be “anything that inconveniences Jews”, we can pull a trick where we leverage people’s dislike of Hitler to make them support the Israeli occupation of Palestine – but in order to do that, we need to get everyone on board with this definition. 
+If we kinda tweak the definition of “anti-Semitism” to be “anything that inconveniences Jews”, we can pull a trick where we leverage people’s dislike of Hitler to make them support the Israeli occupation of Palestine – but in order to do that, we need to get everyone on board with this definition.
 
-Another common example: the social justice movement insists on their own novel definitions of words like “racism” that don’t match common usage, any dictionary, or etymological history – but which direct bad karma toward opponents. Successfully being able to label someone racist is immensely damaging. It draws a line between them and Nazis. If you can redefine such a damaging term to include more than its old definition, you can use it more often and easily. Overreliance on this mechanism explains why many internal social justice debates end up being about whether a particular mirror can be deployed to transfer bad karma in a specific case (“are trans people privileged?”) rather than any feature of the real world.
+Middle East conflicts are not alone. Compare: “Is such an such an organization a cult?”, “Is such and such a policy socialist?”, "are trans people privileged?", “Is abortion, or capital punishment, or war, murder?” These questions are entirely about whether we can reflect bad karma from known sources of evil to other topics under discussion, rather than any feature of the real world.
 
-The social justice movement is not alone. Compare: “Is such an such an organization a cult?”, “Is such and such a policy socialist?”, “Is abortion, or capital punishment, or war, murder?” These questions are entirely about whether we can reflect bad karma from known sources of evil to other topics under discussion.
-
-Have you worked out what we’re looking at? It's The Worst Argument In The World, only now, we can explain why it manages to work despite not making sense.
+Have you worked out what we’re looking at? It's [The Worst Argument In The World](https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world), only now, we can explain why it works.
 
 ### VIII
 
@@ -229,30 +215,24 @@ There is a strong signal of people who are told they are bad at fidelity to stat
 
 The researchers conclude that people want to have high self-esteem. If I am terrible at fidelity, and fidelity is the most important virtue, that makes me a terrible person. If I am terrible at fidelity and fidelity doesn’t matter, I’m fine. If I am great at fidelity, and fidelity is the most important virtue, I can feel pretty good about myself.
 
-This doesn’t seem too surprising. It’s just the more subtle version of the effect where white people are a lot more likely to be white supremacists than members of any other race. Everyone likes to hear that they’re great. The question is whether they can defend it and fit it in with their other ideas. The answer is “usually yes, because people are capable of pretty much any contortion of logic you can imagine and a lot that you can’t”.
+This doesn’t seem too surprising. Everyone likes to hear that they’re great. The question is whether they can defend it and fit it in with their other ideas. The answer is “usually yes, because people are capable of pretty much any contortion of logic you can imagine and a lot that you can’t”.
 
 Good or bad karma, when applied to yourself, looks like high or low self-esteem; when applied to groups, it looks like high or low status. In the giant muddle of a war for status that we politely call “society”, this makes beliefs into weapons and the karma loading of concepts into the difference between lionization and dehumanization.
 
 The Trope Namer for emotivist arguments is “ethnic tension”, and although it’s most obvious in the case of literal ethnicities like the Israelis and the Palestinians, the ease with which concepts become attached to different groups creates a whole lot of “proxy ethnicites”. I’ve written before about how American liberals and conservatives are seeming less and less like people who happen to have different policy prescriptions, and more like two different tribes engaged in an ethnic conflict quickly approaching Middle East level hostility. More recently, a friend on Facebook described _the-thing-whose-name-we-do-not-speak-lest-it-appear-and-destroy-us-all_, the one involving [reproductively viable worker ants](https://www.vox.com/2014/11/1/7136343/gamergate-and-the-politicization-of-absolutely-everything), as looking more like an ethnic conflict about who is oppressing whom than any real difference in opinions.
 
-Once a concept has joined up with an ethnic group, whether real or makeshift, it’s impossible to oppose the concept without simultaneously lowering the status of the ethnic group, which is going to start at least a little bit of a war. Worse, once a concept has joined up with an ethnic group, one of the best ways to argue against the concept is to dehumanize the ethnic group it’s working with. (remember, it's transitive) Dehumanizing an ethnic group has always been easy – just associate them with a disgust reaction, portray them as unattractive, unlovable, and full of all the worst human traits – and now it is profitable as well, since it’s one of the fastest ways to load bad karma into an idea you dislike.
+Once a concept has joined up with an ethnic group, whether real or makeshift, it’s impossible to oppose the concept without simultaneously lowering the status of the ethnic group, which is going to start at least a little bit of a war. Worse, once a concept has joined up with an ethnic group, one of the best ways to argue against the concept is to dehumanize the ethnic group it’s working with. (remember, it's transitive) Dehumanizing an ethnic group has always been easy – just associate them with a disgust reaction, portray them as unattractive or unlovable, full of all the worst human traits, and worthy of no pity. Now dehumanizing is profitable as well, since it’s one of the fastest ways to load bad karma into an idea you dislike.
 
 ### IX
 
 Precision resolves this. If you’re debating “religion”, you’re just debating the word. Precision is sticking to a precise question, like “Is the first chapter of Genesis literally true?” or “Does Buddhist meditation help treat anxiety disorders?” and trying to keep these issues as separate from a General-Factor-Of-Religiousness as possible.
 
-I want to end by addressing a point a commenter made on a related post:
-
-In the real world, the particular abstract questions aren’t what matter – the groups and people are what matter. People get things done, and they aren’t particularly married to particular abstract concepts, they are married to their values and their compatriots. In order to deal with reality, we must attack and defend groups and individuals. That does not mean forsaking logic. It requires dealing with obfuscating tactics like those you outline above, but that’s not even a real downside, because if you flee into the narrow, particular questions all you’re doing is covering your eyes to avoid perceiving the the monsters that will still make mincemeat of your attempts to change things.
-
-I don’t entirely disagree with this, but I've covered this already. The world is a scary place, full of bad people who want to hurt you. In the state of nature you’re pretty much obligated to engage in whatever it takes to survive.
+The world is a scary place, full of bad people who want to hurt you. In the state of nature you’re pretty much obligated to engage in whatever it takes to survive. Fallacies are a kind of weapon that are always at everyones disposal.
 
 But we have the ability to form communities built on mutual disarmament and mutual cooperation. Despite imposing artificial limits, people in these communities become stronger than the less-scrupulous people outside them. This is because they can work together effectively and because they can boast a better quality of life that attracts others to join them. These communities can resist zero-sum strategies that would harm everyone within them. 
 
-Civilization, and everything in it, exists because we have mutually agreed to not be machiavellian psychopaths who will win at any cost. Fallacies, including this one, are zero-sum strategies. They may help you win an argument or two, but when everyone uses them, they damage the ability for a discussion to find truth.
+Civilization, and everything in it, exists because we have mutually agreed to not be machiavellian psychopaths who will win at any cost. Fallacies, including this one, are zero-sum strategies. They may help you win an argument or two, but when everyone uses them, they damage our ability to find truth.
 
-This community is the kind where members try to stick to rational discussion as much as possible. Communities that maintain good discussion norms are definitely better able to work together, because they have a very powerful method of resolving empirical disputes. And they’re definitely better quality of life, because you don’t have to deal with constant insult wars and personal attacks.
+This community is the kind where members try to stick to rational discussion as much as possible. Communities that maintain good discussion norms are definitely better able to work together, because they have a very powerful method of resolving empirical disputes. And they’re definitely better quality of life, because you don’t have to deal with constant insult wars and personal attacks. They're better for the same reasons that a peaceful community is.
 
-But forming this community that focuses on productive discussion isn’t just about having the will to discuss things. It’s also about having the ability. Overcoming biases is really hard, if not impossible, meaning the members of such a community need to be constantly trying to advance the art and figure out how to improve the quality and accuracy of discussion.
-
-As such, it’s acceptable to try to determine and discuss negative patterns of argument, even if those patterns of argument are useful and necessary weapons in the jungle. If anything, understanding them makes them easier to use if you’ve got to use them, and makes them easier to recognize and counter from others, giving a slight advantage in battle if you need it. But moving them from unconscious to conscious gives you the crucial choice of when to deploy them, and the knowledge to try not to.
+Forming a community that focuses on productive discussion isn’t just about having the will to discuss things. It’s also about having the ability. Overcoming biases is really hard, meaning the members of such a community need to be constantly trying to advance the art of discussion and figure out how to improve the quality and accuracy of it.
