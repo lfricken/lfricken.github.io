@@ -2,5 +2,5 @@ theme: jekyll-theme-midnight
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 relative_links:
-  enabled: true
+  enabled: false
   collections: true
